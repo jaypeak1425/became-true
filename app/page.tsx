@@ -29,6 +29,15 @@ export default function HomePage() {
 
       <h2>🛡️ 30-Day Money-Back Guarantee</h2>
       <p>If Became True doesn't book you real jobs in the first 30 days, we'll refund every penny. No questions. No fine print. You either win or you get your money back.</p>
+
+      <h2>Stop losing jobs to voicemail.</h2>
+      <p>48 hours from now, every call could be a booked job. Setup takes 15 minutes. The AI is live in 48 hours. Cancel anytime.</p>
+      <p>
+        <a href="https://buy.stripe.com/fZu7sLfwjgG731f6ij0gw00">Start Now — $297/month</a>
+      </p>
+      <p>
+        <a href="tel:4690694255">📞 (469) 069-4255</a>
+      </p>
     </main>
   );
 }
