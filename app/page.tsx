@@ -11,6 +11,12 @@ export default function HomePage() {
         <a href="tel:4690694255">📞 (469) 069-4255</a>
       </p>
 
+      <h2>Built for your industry</h2>
+      <p>See how Became True works for your specific trade:</p>
+      <ul>
+        <li><a href="/restoration">Restoration (Water, Fire, Mold)</a></li>
+      </ul>
+
       <h2>How it works</h2>
       <div>
         <div>
