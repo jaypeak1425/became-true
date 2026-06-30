@@ -1,5 +1,23 @@
 export default function HomePage() {
   return (
+   <section style={{ padding: '60px 0', borderTop: '1px solid rgba(255,255,255,0.1)' }}>
+  <h2 style={{ fontSize: '36px', fontWeight: 800, margin: '0 0 40px', textAlign: 'center' }}>How it works</h2>
+  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '24px' }}>
+    <div style={{ background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.1)', borderRadius: '12px', padding: '24px' }}>
+      <div style={{ width: '40px', height: '40px', background: '#b8a8ff', color: '#0a0e27', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 800, marginBottom: '16px' }}>1</div>
+      <h3 style={{ fontSize: '20px', fontWeight: 700, margin: '0 0 8px' }}>You Sign Up</h3>
+      <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', margin: 0, lineHeight: 1.5 }}>60-second Stripe checkout. We get notified and reach out within 24 hours.</p>
+    </div>
+      <div style={{ width: '40px', height: '40px', background: '#b8a8ff', color: '#0a0e27', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 800, marginBottom: '16px' }}>2</div>
+      <h3 style={{ fontSize: '20px', fontWeight: 700, margin: '0 0 8px' }}>15-Minute Setup</h3>
+      <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', margin: 0, lineHeight: 1.5 }}>Tell us your services, hours, and service area. We build your custom AI.</p>
+    </div>
+      <div style={{ width: '40px', height: '40px', background: '#b8a8ff', color: '#0a0e27', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 800, marginBottom: '16px' }}>3</div>
+      <h3 style={{ fontSize: '20px', fontWeight: 700, margin: '0 0 8px' }}>Go Live in 48 Hours</h3>
+      <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', margin: 0, lineHeight: 1.5 }}>Forward your phone when you can't pick up. Calls get answered, jobs get booked.</p>
+    </div>
+  </div>
+</section>
     <main>
       <section style={{ padding: '80px 0 60px', textAlign: 'center' }}>
         <div style={{ color: '#b8a8ff', fontSize: '13px', fontWeight: 600, letterSpacing: '2px', textTransform: 'uppercase', marginBottom: '20px' }}>
