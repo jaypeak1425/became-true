@@ -15,6 +15,7 @@ export default function HomePage() {
       <p>See how Became True works for your specific trade:</p>
       <ul>
         <li><a href="/restoration">Restoration (Water, Fire, Mold)</a></li>
+        <li><a href="/foundation">Foundation Repair</a></li>
       </ul>
 
       <h2>How it works</h2>
