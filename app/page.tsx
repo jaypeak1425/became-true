@@ -26,6 +26,9 @@ export default function HomePage() {
           <p>Forward your phone when you can't pick up. Calls get answered, jobs get booked.</p>
         </div>
       </div>
+
+      <h2>🛡️ 30-Day Money-Back Guarantee</h2>
+      <p>If Became True doesn't book you real jobs in the first 30 days, we'll refund every penny. No questions. No fine print. You either win or you get your money back.</p>
     </main>
   );
 }
